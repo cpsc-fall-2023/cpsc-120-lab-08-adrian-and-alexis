@@ -1,7 +1,7 @@
 // Alexis Martinez
 // alexism2101@csu.fullerton.edu
 // @AlexisM21
-// Partners: @as
+// Partners: @7Adrian7
 
 #include <iostream>
 #include <string>
